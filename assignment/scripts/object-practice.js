@@ -53,3 +53,5 @@ console.log('new shoe count should be 6', shoeCount);
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+me.favoriteColor = 'blue';
+console.log(me.favoriteColor);
